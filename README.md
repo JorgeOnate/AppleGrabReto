@@ -1,0 +1,1 @@
+This a game much like apple grab, where you must catch astronauts and save them with your spaceship, there are alien who do damage if they touch you. You must rescue 30 astronauts in order tto win the game
