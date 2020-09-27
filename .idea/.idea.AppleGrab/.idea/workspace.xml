@@ -10,10 +10,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpaceshipMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyOnTouch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceshipMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AstronautSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AstronautMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyAstronaut.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AlienMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AlienSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyOnTouch.cs" />
       </list>
     </option>
   </component>
@@ -58,6 +74,7 @@
       <updated>1601151280915</updated>
       <workItem from="1601151298801" duration="1000" />
       <workItem from="1601155038065" duration="1388000" />
+      <workItem from="1601224974580" duration="17041000" />
     </task>
     <servers />
   </component>
